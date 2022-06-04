@@ -1,0 +1,13 @@
+.crdB{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.crd{
+    margin-top: 200px;
+}
+.butn{
+    background-color: #006823;
+}
